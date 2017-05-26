@@ -1,0 +1,132 @@
+nadj_rc 0.005885
+	nadj_rr_t red_rel_vp : 0.729927%
+	noun_n_cmpnd fillhead_rel : 0.729927%
+	hcomp fillhead_rel : 0.729927%
+	nadj_rc inf_non_wh_rel : 1.459854%
+	noptcomp red_rel_vp : 1.459854%
+	noptcomp inf_non_wh_s_rel : 1.459854%
+	noun_n_cmpnd instr_non_wh_rel : 0.729927%
+	sing_noun_infl_rule fin_non_wh_rel : 11.678832%
+	nadj_rr_t fillhead_rel : 0.729927%
+	noun_n_cmpnd fin_non_wh_rel : 14.598540%
+	noptcomp inf_non_wh_rel : 2.189781%
+	mass_noun_infl_rule fillhead_rel : 0.729927%
+	np_n_cmpnd fin_non_wh_rel : 5.839416%
+	sing_noun_infl_rule inf_non_wh_rel : 0.729927%
+	part_nocomp fin_non_wh_rel : 0.729927%
+	noptcomp instr_non_wh_rel : 2.189781%
+	noptcomp punct_par : 0.729927%
+	measure_np inf_non_wh_rel : 0.729927%
+	noptcomp fillhead_rel : 11.678832%
+	mass_count_infl_rule fin_non_wh_rel : 1.459854%
+	nadj_rr_nt inf_non_wh_s_rel : 1.459854%
+	mass_count_infl_rule red_rel_vp : 2.189781%
+	nadj_rc fillhead_rel : 0.729927%
+	sing_noun_infl_rule fillhead_rel : 2.189781%
+	noptcomp fin_non_wh_rel : 27.007299%
+	nadj_rc red_rel_vp : 1.459854%
+	nadj_rc fin_non_wh_rel : 0.729927%
+	nadj_rr_nt red_rel_vp : 0.729927%
+	nadj_rr_nt fin_non_wh_rel : 1.459854%
+	mass_noun_infl_rule fin_non_wh_rel : 0.729927%
+subjh 0.034752
+	hspec hadj_i_uns : 0.865266%
+	that_deix hadj_i_uns : 0.123609%
+	i extracomp : 4.820766%
+	she hadj_i_uns : 0.123609%
+	she hcomp : 0.370828%
+	num_np hadj_i_uns : 0.123609%
+	there_expl hoptcomp : 0.247219%
+	i adjh_s : 2.101360%
+	that_deix hcomp : 0.370828%
+	bare_np non_third_sg_fin_verb_infl_rule : 0.123609%
+	proper_np hcomp : 0.123609%
+	i v_coord_fin_top : 2.348578%
+	hspec adjh_s : 0.123609%
+	bare_vger hcomp : 0.123609%
+	appos extradj_i_vp : 0.123609%
+	np_coord_top hcomp : 0.123609%
+	i hadj_i_uns : 10.877627%
+	noptcomp hadj_i_s : 0.123609%
+	noptcomp adjh_i : 0.123609%
+	noptcomp extracomp : 0.370828%
+	appos adjh_i : 0.123609%
+	bare_np hcomp : 0.618047%
+	num_np hcomp : 0.370828%
+	hspec adjh_i : 0.123609%
+	here_nom hcomp : 0.370828%
+	hspec hoptcomp : 0.123609%
+	i hadj_i_s : 0.123609%
+	noptcomp hadj_i_uns : 0.618047%
+	bare_vger extradj_i_vp : 0.123609%
+	it hcomp : 0.865266%
+	hspec hcomp : 10.383189%
+	num_np extracomp : 0.123609%
+	bare_np third_sg_fin_verb_infl_rule : 0.247219%
+	noptcomp hcomp : 8.405439%
+	num_np third_sg_fin_verb_infl_rule : 0.494438%
+	np_s extracomp : 0.123609%
+	i hadj_s : 0.370828%
+	this_deix hcomp : 0.741656%
+	noptcomp extradj_i_vp : 0.123609%
+	this_deix hadj_i_uns : 0.123609%
+	noptcomp adjh_s : 0.123609%
+	hspec past_verb_infl_rule : 0.123609%
+	hspechc hcomp : 0.123609%
+	hspec third_sg_fin_verb_infl_rule : 0.247219%
+	noptcomp vpellipsis_ref_lr : 0.123609%
+	hspec v_coord_fin_top : 0.123609%
+	np_s hoptcomp : 0.247219%
+	noptcomp hadj_s : 0.370828%
+	i extradj_t : 0.247219%
+	i hcomp : 45.735476%
+	i extradj_i_vp : 1.977750%
+	i adjh_i : 2.101360%
+	this_deix extradj_i_vp : 0.123609%
+imper 0.013961
+	extracomp : 0.307692%
+	extradj_i_vp : 0.615385%
+	hadj_i_uns : 6.769231%
+	hcomp : 39.692308%
+	adjh_s : 35.076923%
+	hoptcomp : 7.384615%
+	adjh_i : 1.846154%
+	bse_verb_infl_rule : 8.307692%
+frag_np 0.001504
+	punct_par : 8.571429%
+	num_np : 45.714286%
+	bare_np : 8.571429%
+	measure_np : 2.857143%
+	noptcomp : 2.857143%
+	hspec : 17.142857%
+	adjh_s : 2.857143%
+	np_coord_top : 2.857143%
+	np_wh_s : 8.571429%
+extracomp 0.006572
+	be_it_cop_been : 0.653595%
+	for : 1.307190%
+	third_sg_fin_verb_infl_rule : 0.653595%
+	be_id_am_cx_ : 0.653595%
+	hcomp : 8.496732%
+	non_third_sg_fin_verb_infl_rule : 2.614379%
+	psp_verb_infl_rule : 2.614379%
+	be_id_was : 0.653595%
+	be_c_is : 0.653595%
+	by_p : 0.653595%
+	to : 2.614379%
+	through_prtcl : 1.307190%
+	past_verb_infl_rule : 52.941176%
+	be_c_be : 0.653595%
+	be_id_am : 0.653595%
+	be_id_be : 0.653595%
+	through : 0.653595%
+	bse_verb_infl_rule : 18.954248%
+	be_th_cop_be : 0.653595%
+	into_vmod : 0.653595%
+	hoptcomp : 1.307190%
+extradj_i_vp 0.002749
+	v_coord_fin_top : 1.562500%
+	hcomp : 84.375000%
+	hoptcomp : 10.937500%
+	vpellipsis_ref_lr : 1.562500%
+	past_verb_infl_rule : 1.562500%

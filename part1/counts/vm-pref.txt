@@ -1,0 +1,181 @@
+nadj_rc 0.002753
+	nadj_rr_t red_rel_vp : 0.625000%
+	nadj_rr_t hadj_i_uns : 0.625000%
+	nadj_rr_t inf_non_wh_s_rel : 0.625000%
+	plur_noun_infl_rule hadj_i_uns : 0.625000%
+	mass_count_infl_rule fillhead_rel : 1.250000%
+	plur_noun_infl_rule inf_non_wh_s_rel : 1.250000%
+	sing_noun_infl_rule instr_non_wh_rel : 0.625000%
+	mass_count_infl_rule inf_non_wh_rel : 1.250000%
+	nadj_rc inf_non_wh_rel : 0.625000%
+	noptcomp red_rel_vp : 0.625000%
+	noptcomp inf_non_wh_s_rel : 1.250000%
+	partnum_nc fin_non_wh_rel : 0.625000%
+	sing_noun_infl_rule fin_non_wh_rel : 5.000000%
+	sing_noun_infl_rule hadj_i_uns : 0.625000%
+	nadj_rr_t fillhead_rel : 2.500000%
+	np_n_cmpnd_ fin_non_wh_rel : 0.625000%
+	noptcomp hadj_i_uns : 5.000000%
+	noptcomp inf_non_wh_rel : 1.875000%
+	nadj_rr_nt inf_non_wh_s_rel : 0.625000%
+	nadj_rr_nt fillhead_rel : 1.250000%
+	sing_noun_infl_rule inf_non_wh_rel : 0.625000%
+	hcomp fin_non_wh_rel : 0.625000%
+	part_nocomp fin_non_wh_rel : 2.500000%
+	nadj_rc inf_non_wh_s_rel : 1.250000%
+	partnum_nc hadj_i_uns : 0.625000%
+	noptcomp fillhead_rel : 8.125000%
+	plur_noun_infl_rule fin_non_wh_rel : 3.125000%
+	mass_count_infl_rule fin_non_wh_rel : 6.875000%
+	sing_noun_infl_rule fillhead_rel : 1.250000%
+	noptcomp fin_non_wh_rel : 32.500000%
+	nadj_rr_t fin_non_wh_rel : 5.000000%
+	num_seq fillhead_rel : 0.625000%
+	nadj_rc fin_non_wh_rel : 2.500000%
+	n_coord_top hadj_i_uns : 0.625000%
+	nadj_rr_nt red_rel_vp : 0.625000%
+	nadj_rr_nt fin_non_wh_rel : 5.000000%
+	part_nocomp red_rel_vp : 0.625000%
+subjh 0.033209
+	hspec hadj_i_uns : 1.191710%
+	that_deix hadj_i_uns : 1.088083%
+	proper_np hcomp : 1.761658%
+	that_deix extracomp : 0.103627%
+	bare_np hcomp : 0.155440%
+	bare_np hadj_i_uns : 0.310881%
+	bare_np hadj_s : 0.051813%
+	np_coord_top hadj_s : 0.051813%
+	proper_np hadj_i_uns : 1.036269%
+	nadj_rr_t hadj_i_uns : 0.310881%
+	yours hcomp : 0.051813%
+	nadj_rr_t hoptcomp : 0.103627%
+	i adjh_s : 1.243523%
+	that_deix hcomp : 6.373057%
+	noptcomp extracomp : 0.673575%
+	today_np hadj_i_uns : 0.051813%
+	proper_np hadj_s : 0.103627%
+	that_deix adjh_s : 0.051813%
+	hspec adjh_s : 0.051813%
+	hspec extracomp : 0.103627%
+	i extracomp : 0.829016%
+	np_coord_top hcomp : 0.362694%
+	i hadj_i_uns : 16.580311%
+	i hoptcomp : 0.414508%
+	noptcomp hadj_i_s : 0.051813%
+	noptcomp adjh_i : 0.051813%
+	those_deix hadj_i_uns : 0.155440%
+	proper_np hoptcomp : 0.362694%
+	bare_np adjh_s : 0.051813%
+	hcomp hcomp : 0.103627%
+	part_nocomp hcomp : 0.051813%
+	measure_np hcomp : 0.051813%
+	they_sg hcomp : 0.051813%
+	bare_vger hcomp : 0.051813%
+	those_deix hcomp : 0.051813%
+	hspec hoptcomp : 0.259067%
+	that_deix hoptcomp : 1.450777%
+	noptcomp hadj_i_uns : 2.746114%
+	that_deix extradj_i_vp : 0.155440%
+	noptcomp extradj_t : 0.310881%
+	hspec hadj_s : 0.103627%
+	it hcomp : 0.777202%
+	nadj_rr_nt hcomp : 0.103627%
+	hspec hcomp : 4.611399%
+	hspec vpellipsis_ref_lr : 0.103627%
+	noptcomp v_coord_fin_top : 0.155440%
+	noptcomp adjh_s : 0.414508%
+	hspechc hoptcomp : 0.362694%
+	nadj_rr_t hcomp : 0.466321%
+	np_s hadj_i_uns : 0.103627%
+	bare_np extradj_i_vp : 0.051813%
+	noptcomp hcomp : 10.880829%
+	partnum_nc hadj_i_uns : 0.051813%
+	that_deix extradj_t : 0.259067%
+	noptcomp hoptcomp : 0.414508%
+	num_seq hadj_i_uns : 0.051813%
+	nadj_rc hcomp : 0.155440%
+	hspechc extradj_t : 0.051813%
+	i hadj_s : 0.725389%
+	this_deix hcomp : 0.207254%
+	noptcomp extradj_i_vp : 0.310881%
+	this_deix hadj_i_uns : 0.051813%
+	num_np extradj_t : 0.051813%
+	i vpellipsis_ref_lr : 0.777202%
+	np_coord_top hadj_i_uns : 0.207254%
+	today_np hcomp : 0.518135%
+	nadj_rc hadj_i_uns : 0.051813%
+	i hadj_i_s : 0.051813%
+	hspechc hcomp : 0.518135%
+	there_expl hoptcomp : 0.103627%
+	mine hadj_s : 0.051813%
+	hspec extradj_t : 0.103627%
+	noptcomp vpellipsis_ref_lr : 0.259067%
+	hspechc hadj_i_uns : 0.103627%
+	hspec noptcomp : 0.051813%
+	noptcomp hadj_s : 0.155440%
+	i extradj_t : 2.124352%
+	that_deix hadj_s : 0.207254%
+	i hcomp : 32.849741%
+	i extradj_i_vp : 1.709845%
+	hcomp hadj_i_uns : 0.103627%
+	i adjh_i : 0.259067%
+	hspec extradj_i_vp : 0.310881%
+imper 0.002891
+	extracomp : 1.785714%
+	extradj_i_vp : 4.166667%
+	hadj_i_uns : 16.071429%
+	hcomp : 69.047619%
+	adjh_s : 2.380952%
+	hoptcomp : 4.166667%
+	adjh_i : 0.595238%
+	bse_verb_infl_rule : 1.785714%
+frag_np 0.002529
+	nadj_rr_nt : 1.360544%
+	hspechc : 8.843537%
+	bare_np : 1.360544%
+	freerel_fin : 2.040816%
+	measure_np : 0.680272%
+	noptcomp : 8.163265%
+	nadj_rc : 0.680272%
+	hspec : 36.734694%
+	hcomp : 1.360544%
+	adjh_s : 2.040816%
+	nadj_rr_t : 10.204082%
+	proper_np : 17.006803%
+	np_coord_top : 8.843537%
+	np_wh_s : 0.680272%
+extracomp 0.003803
+	got_poss_prd : 0.452489%
+	for_prtcl : 0.452489%
+	be_id_is : 1.357466%
+	prp_verb_infl_rule : 1.357466%
+	be_id_are : 0.452489%
+	past_verb_infl_rule : 2.714932%
+	be_id_am : 0.452489%
+	in_prtcl : 0.452489%
+	bse_verb_infl_rule : 42.533937%
+	out_vmod : 0.452489%
+	non_third_sg_fin_verb_infl_rule : 13.122172%
+	be_id_was : 0.452489%
+	got_poss : 1.809955%
+	like_p : 1.357466%
+	third_sg_fin_verb_infl_rule : 0.452489%
+	after_p : 0.452489%
+	to : 0.904977%
+	with_p : 0.452489%
+	hcomp : 21.266968%
+	psp_verb_infl_rule : 0.452489%
+	be_id_be : 2.714932%
+	on : 0.452489%
+	be_th_cop_be : 0.452489%
+	on_day : 0.452489%
+	be_c_is : 0.452489%
+	be_c_am : 1.809955%
+	be_c_be : 1.357466%
+	about : 0.452489%
+	about_prtcl : 0.452489%
+extradj_i_vp 0.004887
+	hcomp : 74.295775%
+	bse_verb_infl_rule : 1.056338%
+	hoptcomp : 23.239437%
+	vpellipsis_ref_lr : 1.408451%
